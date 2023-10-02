@@ -1,0 +1,13 @@
+{
+  "/EditBlog": "pages/EditBlog.html",
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/Signin": "pages/Signin.html",
+  "/Home": "pages/Home.html",
+  "/MyBlogs": "pages/MyBlogs.html",
+  "/WriteBlogs": "pages/WriteBlogs.html",
+  "/OneBlog": "pages/OneBlog.html",
+  "/": "pages/index.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
